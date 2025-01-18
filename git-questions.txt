@@ -1,0 +1,4 @@
+1) How can we remove our git repo connection from our local workspace & connect again 
+2) how can we go backwards in add, commit & push
+3) how can we pull from different branches
+4) can i see the collaborator history?
